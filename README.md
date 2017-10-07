@@ -1,11 +1,11 @@
 # Philadelphia Crime Data
 
-This code analyzes Crime Data for Philadelphia, PA from 2006 through 2015.  The data set is available on Kaggle.  This is a work in progress.
+This code analyzes Crime Data for Philadelphia, PA from 2006 through 2015.  The data set is available on Kaggle.
 
 ## File Contents
 
 1. **Philadelphia_Crime_Data.ipynb**: Python code analyzing Philadelphia Crime Data.
-2. **Philadelphia_Crime_Data.html**: Report containing the results of the investigation (TODO).
+2. **Philadelphia_Crime_Data.html**: Report containing the results of the investigation.
 
 All files shall be downloaded in the same directory.
 
