@@ -1,6 +1,6 @@
 # Philadelphia Crime Data
 
-This code analyzes Crime Data for Philadelphia, PA from 2006 through 2015.  The data set is available on Kaggle.
+This code analyzes Crime Data for Philadelphia, PA from 2006 through 2015.  The data set is available on Kaggle.  Search for "Philadelphia crime data".
 
 ## File Contents
 
